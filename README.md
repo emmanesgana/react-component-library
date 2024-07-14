@@ -3,6 +3,8 @@
 React Component Library++ is a scrimba solo project under Advanced React course by Bob Ziroll.
 It showcases the use of components, props and children to render data to the site and it dynamically change the colors as per user's preference.
 
+[Demo](https://nuutri-react-component-library.netlify.app/)
+
 Technology Used for this project:
 - HTML 5
 - CSS 3
@@ -11,7 +13,6 @@ Technology Used for this project:
 - NPM
 - react-icons
 - vite
-
 
 ## Screenshot
 
