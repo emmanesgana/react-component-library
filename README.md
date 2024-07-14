@@ -1,4 +1,6 @@
-# co28a46adbcff9c3319b895ca
+## Screenshot
+
+![Screenshot of the Compononet Library ++ Site](https://github.com/emmanesgana/scrimba-react-component-library/blob/main/preview/preview.png)
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
